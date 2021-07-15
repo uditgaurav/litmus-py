@@ -7,7 +7,7 @@ on:
       - '**'
 
 env:
-  DOCKER_REPO: litmuschaos
+  DOCKER_REPO: uditgaurav
   DOCKER_IMAGE: py-runner
 
 defaults:
